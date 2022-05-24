@@ -58,4 +58,51 @@
 
 <br>
 
-- 07 - I
+- 07 - Escreva um programa para imprimir o menu abaixo:
+<br>1 - Solteiro(a)
+<br>2 - Desquitado(a)
+<br>3 - Casado(a)
+<br>4 - Divorciado(a)
+<br>5 - Viúvo(a)
+<br>O usuário deverá selecionar uma das opções do menu. O programa deverá imprimir o estado civil de acordo com a opção selecionada pelo usuário. Uma mensagem de erro deverá ser emitida caso seja selecionada uma opção inexistente.
+
+<br>
+
+- 08 - Implemente um programa que realize uma das quatro operações (+), (-), (*) ou (/)
+entre duas variáveis a partir da escolha do usuário.<br> <br>
+
+##### Múltipla escolha: switch-case <br> <br>
+
+- 09 - Escrever seu nome na tela 10 vezes. Um nome por linha.
+
+<br>
+
+- 10 - Imprimir os números pares de 2 a 50.
+
+<br>
+
+- 11 - Imprimir os números 11, 21, 31,..., 101.
+
+<br>
+
+- 12 - Exibir a soma dos números compreendidos de 1 a 5.
+
+<br>
+
+- 13 - Desenvolver um programa que efetue a soma de todos os números ímpares que são múltiplos de três e que se encontram no conjunto dos números de 1 a 100.
+
+<br>
+
+- 14 - Escreva um programa que gere os números de 1000 a 1999, designando se são ou não divisíveis por 11 e se o módulo (resto) da divisão por 11 é ou não 5. A saída do programa deve seguir o seguinte exemplo:
+<br>Ex:
+<br>1000 não é divisível por 11 e o módulo da divisão não é 5.
+<br>1001 é divisível por 11 e o módulo da divisão não é 5.
+<br>1017 não é divisível por 11 e o módulo da divisão é 5.<br> <br>
+
+##### Desafio <br> <br>
+
+Escreva um programa que leia os números de 1999 para 100 e:
+<br>a) Mostre quais são divisíveis por 11: quantos são, qual o resultado da soma entre esses números, quantos são pares e quantos são ímpares;
+<br>b) Mostre quais não são divisíveis por 11 cujo módulo da divisão por 11 seja 5: quantos são, qual o resultado da soma entre esses números, quantos são pares e quantos são ímpares;
+<br>c) Informe a quantidade de números de 1999 a 100;
+<br>d) Informe a soma dos números de 1999 a 100.
