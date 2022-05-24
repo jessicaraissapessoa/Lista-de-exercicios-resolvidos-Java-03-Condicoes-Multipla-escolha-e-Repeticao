@@ -13,20 +13,21 @@
 #### Temas abordados:
 
 - System.out.println
-- DecimalFormat
 - Scanner (entrada: teclado)
-- Variáveis do tipo: int, double, String, char
+- Variáveis do tipo: int, double, String
 - Operadores aritméticos (+ - * / %)
 - Operadores de igualdade e desigualdade (== !=)
 - Operadores relacionais (> < >= <=)
-- Operadores lógicos (&& ||)
-- Case (equalsIgnoreCase, toUpperCase, toLowerCase)
+- Operadores unários (+ - ++ --)
+- Case (toUpperCase, toLowerCase)
 - Operador ternário (? :)
 - Condições aninhadas
 - if / else
 - if / else if / else
 - switch / case / default
 - break;
+- while
+- for
 
 ##
 
