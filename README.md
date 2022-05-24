@@ -32,10 +32,30 @@
 
 #### Questões:
 
-##### Testes condicionais <br> <br>
+##### if/else if/else; Ternário <br> <br>
 
-- 01 - Escrever um algoritmo que leia a idade da pessoa e imprima a mensagem "Você é maior de idade", caso ela tenha 18 anos ou mais, ou "Você é menor de idade", caso contrário.
+- 01 - Escreva um programa que leia um número e informe 'par' ou 'ímpar'.
 
 <br>
 
-- 02 - L
+- 02 - Faça um programa que peça um valor e mostre na tela se o valor é 'positivo' (<0) ou 'negativo' (<0).
+
+<br>
+
+- 03 - Leia dois números e efetue a adição. Caso o valor resultante da adição seja maior que 20, esse deverá ser apresentado somando a ele 8. Caso o valor resultante da adição seja menor ou igual a 20, esse deverá ser apresentado subtraindo dele 5.
+
+<br>
+
+- 04 - Escreva um algoritmo que receba um número e imprima uma das mensagens: "É múltiplo de 3" ou "Não é múltiplo de 3".<br> <br>
+
+##### Múltipla escolha: switch-case <br> <br>
+
+- 05 - Faça um programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra, imprimir: "F - Feminino", "M - Masculino", "Sexo Inválido".
+
+<br>
+
+- 06 - Implemente um programa que informe se uma letra que foi informada é uma vogal.
+
+<br>
+
+- 07 - I
