@@ -1,7 +1,7 @@
-### Lista Java - 02 - Testes Condicionais e Testes Encadeados
+### Lista Java - 03 - Condições, Múltipla escolha e Repetição
 
 - Lista de exercícios resolvidos em Java
-- Tema: Testes Condicionais e Testes Encadeados
+- Tema: Condições, Múltipla escolha e Repetição
 
 ##
 
