@@ -72,7 +72,7 @@
 - 08 - Implemente um programa que realize uma das quatro operações (+), (-), (*) ou (/)
 entre duas variáveis a partir da escolha do usuário.<br> <br>
 
-##### Múltipla escolha: switch-case <br> <br>
+##### Repetição <br> <br>
 
 - 09 - Escrever seu nome na tela 10 vezes. Um nome por linha.
 
